@@ -36,13 +36,6 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
-<!-- just img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/qdzhaoxiaodao/photos/images/202110311924844.png" /></div>
-
-<!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/qdzhaoxiaodao/qdzhaoxiaodao/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-
-
 # 🚀 Actions
 
 <!-- 连续提交代码天数记录 -->
