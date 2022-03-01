@@ -1,11 +1,11 @@
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，我是赵小刀! 毕业于河南理工大学计算机科学与技术专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
-<p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;我开始的太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
+<p>✍️&nbsp;&nbsp;大家好，我是赵小刀! 毕业于河南理工大学计算机科学与技术专业，热爱计算机科学和IT互联网事业，励志成为一名和平主义者，希望用代码为世界和平出一份力!</p>
+<p>&emsp;&emsp;Hello everyone, my name is Xiaodao Zhao! Graduated from Henan University of Technology, majoring in computer science and technology, I love computer science and IT Internet, and I am inspired to become a pacifist. I hope to use code to contribute to world peace!</p>
+<p>&emsp;&emsp;我的心愿是世界和平！</p>
+<p>&emsp;&emsp;My wish is world peace !</p>
 
-💪 正在学习: 
+💪 学习中: 
 
 &emsp;&emsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
