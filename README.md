@@ -1,8 +1,3 @@
-
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/qdzhaoxiaodao/photos/images/202108300019556.gif"/></div>
-<br>
-
 #  🙋 Hello
 
 <p>✍️&nbsp;&nbsp;大家好，我是赵小刀! 毕业于河南理工大学计算机科学与技术专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
@@ -52,15 +47,10 @@
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/qdzhaoxiaodao/photos/images/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qdzhaoxiaodao&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/qdzhaoxiaodao/photos/images/202108300312623.png" />
 </div>
 <br>
 
-<!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/qdzhaoxiaodao/qdzhaoxiaodao/base_metrics.svg" alt="base metrics"/></div>
-<br>
 
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
