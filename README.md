@@ -1,7 +1,5 @@
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，我是赵小刀! 毕业于河南理工大学计算机科学与技术专业，热爱计算机科学和IT互联网事业，励志成为一名和平主义者，希望用代码为世界和平出一份力!</p>
-<p>&emsp;&emsp;Hello everyone, my name is Xiaodao Zhao! Graduated from Henan University of Technology, majoring in computer science and technology, I love computer science and IT Internet, and I am inspired to become a pacifist. I hope to use code to contribute to world peace!</p>
 <p>&emsp;&emsp;我的心愿是世界和平！</p>
 <p>&emsp;&emsp;My wish is world peace !</p>
 
